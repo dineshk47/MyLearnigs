@@ -1,2 +1,2 @@
-All small projects and simple programs 
+Contains Project files 
 
